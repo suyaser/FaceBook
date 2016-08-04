@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">facebook</string>
+    <string name="action_search">search</string>
+    <string name="action_friends">friends</string>
+    <string name="title_newsfeed">Newsfeed</string>
+    <string name="no_internet_connection">connection failed</string>
+    <string name="no_post">no posts found</string>
+</resources>
